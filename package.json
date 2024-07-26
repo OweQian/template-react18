@@ -1,0 +1,10 @@
+{
+  "name": "@oweqian/template-react18",
+  "version": "1.0.1",
+  "description": "cli-oweqian react18 template",
+  "author": "oweqian",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
